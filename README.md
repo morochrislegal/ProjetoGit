@@ -1,4 +1,7 @@
-mkdir atividade-git && cd atividade-git
+entrar no powershell não precisa ser no administrador 
+
+
+mkdir atividade-git 
 touch readme.txt
 git config --global user.name "Christian Moro"
 git config --global user.email "christian.moro@escola.pr.gov.br"
