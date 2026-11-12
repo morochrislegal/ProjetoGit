@@ -10,12 +10,12 @@ git config --global user.email "christian.moro@escola.pr.gov.br"(configura seu e
 (aqui coloque o seu nome e seu email)
 git init
 
-git init echo "Atividade de Git realizada" > readme.txt 
+git init echo "Atividade de Git realizada" > readme.txt(cria um arquivo de texto dentro do repositorio)
 
-git add readme.txt
+git add readme.txt(adiciona ao repositorio)
 
-git commit -m "primeiro commit"
+git commit -m "primeiro commit" (salva as mudanças do arquivo e uma mensagem)
 
-git add .
+git add .(adiciona todas as alterações do diretório atual)
 
-git commit -m "primeiro commit: modificando arquivo"
+git commit -m "primeiro commit/ modificando arquivo"(salva todas as mudanças e cria uma mensagem explicando o que fez
