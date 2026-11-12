@@ -1,8 +1,8 @@
 entrar no powershell não precisa ser no administrador 
 
-mkdir atividade-git 
+mkdir projeto (cria a pasta com o nome que você quiser)
 
-cd atividade-git
+cd projeto
 
 git config --global user.name "Christian Moro"
 
